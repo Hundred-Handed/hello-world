@@ -1,3 +1,3 @@
 # hello-world
-Getting started.
-Adding some edits here.
+Deleting some stuff and adding more.
+And a bit more.
